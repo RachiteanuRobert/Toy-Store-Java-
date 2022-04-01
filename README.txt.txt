@@ -30,7 +30,7 @@ parametru Constructer-ului clasei astfel initializandu-se variabilele acesteia.
 
 **************************
 Mentiuni:
-- S-au folosit in cadrul tuturor claselor realizate Getter-i si Setter-i;
+- S-au folosit in cadrul tuturor claselor realizate Getteri si Setteri;
 
 - Au fost inplementate toate exceptiile cerute (Ex: "DiscountNotFoundException",
 "DuplicateProductException", "NegativePriceException", etc.); 
